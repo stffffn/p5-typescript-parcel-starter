@@ -22,6 +22,7 @@ This small script will do the following:
 
 - Updates the project name in the `package.json`
 - Removes the content of this `README.md`
+- Removes the `LICENSE` file
 - Removes the existing `.git` directory
 - Initializes a new git repo
 - Removes the `reset.sh` file

@@ -12,6 +12,9 @@ sed -i '' "s/p5-typescript-parcel-starter/$1/g" package.json
 # Removes content from README.md
 > README.md
 
+# Removes LICENSE file
+rm LICENSE
+
 # Deletes .git directory
 rm -rf .git
 
