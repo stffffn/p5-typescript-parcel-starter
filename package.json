@@ -1,0 +1,16 @@
+{
+  "name": "p5-typescript-parcel-starter",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel --open --dist-dir .temp --cache-dir .temp/cache",
+    "build": "parcel build --dist-dir build --cache-dir .temp/build-cache"
+  },
+  "dependencies": {
+    "p5": "^1.4.2"
+  },
+  "devDependencies": {
+    "@types/p5": "^1.4.3",
+    "parcel": "^2.7.0",
+    "typescript": "^4.8.4"
+  }
+}
