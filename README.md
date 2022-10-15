@@ -9,7 +9,7 @@ If you would like to use this starter template just follow these steps:
 ### 1. Clone and rename this repository
 
 ```bash
-git clone url your-project-name
+git clone https://github.com/stffffn/p5-typescript-parcel-starter.git your-project-name
 ```
 
 ### 2. Run the setup script
